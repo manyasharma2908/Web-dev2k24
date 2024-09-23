@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anchor tags</title>
+</head>
+<body>
+    
+    <h1>Anchor Tags</h1>
+    <a href="https://Spotify.co.in/">Spotify</a>
+    <a target="_self" href="https://google.co.in/">Google</a>
+    <a target="_blank" href="https://youtube.co.in">Youtube</a>
+    <hr>
+
+</body>
+</html>
