@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html_entities</title>
+</head>
+<body>
+    
+    <h1>HTML ENTITIES</h1>
+    <hr>
+
+    <h3>Today i will tech my sister closing tag i.e &lt; /h3 &gt; hope she gets it</h3>
+
+    &copy;
+    &amp;
+    &hearts;
+    &equals;
+    &times;
+    &divide;
+    <hr>
+
+    <code>
+        int function(int n){
+            <br>
+        &nbsp;&nbsp;&nbsp;return n*n;
+            <br>
+        }
+    </code>
+    <hr>
+
+    <code>
+        <pre>
+        int function(int n){
+           return n*n;
+        }
+        </pre>
+    </code>
+    <hr>
+
+    <h3>Subscript</h3>
+    C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
+    <hr>
+
+    <h3>Superscript</h3>
+    a<sup>2</sup>+b<sup>2</sup>+2ab
+
+
+
+</body>
+</html>
