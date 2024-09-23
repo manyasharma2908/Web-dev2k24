@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html_tags</title>
+</head>
+<body>
+
+    <h1>HTML TAGS</h1>
+    <hr>
+    
+    <h1>hi am heading h1</h1>
+    <h2>hi am heading h2</h2>
+    <h3>hi am heading h3</h3>
+    <h4>hi am heading h4</h4>
+    <h5>hi am heading h5</h5>
+    <h6>hi am heading h6</h6>
+    <hr>
+
+    <span>hi am span and i am cute</span>
+    <span>hi am span upar wale span ka chota bhai</span>
+    <hr>
+
+    <div>hi am div1<div>hi am div2</div></div>
+    <hr>
+
+    <span>hi am span1 <span>hi am span2</span> <span>hi am span3</span></span>
+    <hr>
+    
+    <span>hi am span1 <strong>hi am span2</strong> <em>hi am span3</em></span>
+    <hr>
+
+    <span>today was my <strong>hectic day</strong> of the week</span>
+    <hr>
+
+    <span>i am learnig <em>web-d </em>this week</span>
+    <hr>
+    <!-- hi am learning to give comments -->
+
+    <span>hello i am flora and i am studying web-d with fauna</span>
+    <br>
+    <span>hello i am fauna and i dont want to study web-d with fauna</span>
+
+
+
+</body>
+</html>
