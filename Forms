@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    
+    <h1>Forms</h1>
+    <hr>
+    <br>
+
+    <form action="#" method="POST">
+
+        <label for="naam">Name:</label>
+        <input type="text" name="names" id="naam">
+        <br><br>
+
+        <label for="pass">Password:</label>
+        <input type="password" name="passd" id="pass">
+        <br><br>
+
+        <button>login</button>
+        <br><br>
+
+
+        <!-- <form action="" method="GET">
+
+            <label for="naam">Name:</label>
+            <input type="text" name="names" id="naam">
+            <br><br>
+    
+            <label for="pass">Password:</label>
+            <input type="password" name="passd" id="pass">
+            <br><br>
+    
+            <button>login</button>
+            <br><br>
+
+    </form> -->
+
+
+</body>
+</html>
