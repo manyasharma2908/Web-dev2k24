@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div~p {
+            color:red;
+            background-color:pink;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <div></div>
+    <h></h>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id, unde optio. Unde quasi distinctio qui possimus error dolorum minima accusamus praesentium molestiae. Saepe a sint earum praesentium ab, reiciendis molestias?</p>
+    <span>Selectors in css</span>
+    <h2>Hello World</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores aspernatur doloribus voluptates quis quidem nam incidunt sapiente aperiam obcaecati, enim placeat porro dignissimos laudantium distinctio! Sit dignissimos ipsa pariatur hic.</p>
+    <ul>
+        <li><p>Hii</p></li>
+        <li>list 1</li>
+        <li>list 2</li>
+        <li>list 3</li>
+        <li>list 4</li>
+        <li>list 5</li>
+        <li>list 6</li>
+        <li>list 7</li>
+        <li>list 8</li>
+        <li>list 9</li>
+        <li>list 10</li>
+        <li>list 11</li>
+        <li>list 12</li>
+    </ul>
+</div>
+
+</body>
+</html>
