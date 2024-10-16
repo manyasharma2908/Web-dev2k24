@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manya's Website</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+  <nav>
+    <div class="logo">
+      <img src="bakery_logo.jpg" alt="">
+      
+    </div>
+    <ul class="nav-links">
+      <li><a class="active" href="index.html">Home</a></li>|
+      <li><a href="about.html">About</a></li>|
+      <li><a href="about.html">Events</a></li>|
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <section class="hero-section">
+    <span>
+      Sweet Treats:-)
+    </span>
+    <h1>
+      Happiness is an unexpected piece of chocolate.</h1>
+    <p>
+      Just like an unexpected piece of chocolate, moments of happiness often come when we least expect them, adding sweetness to an ordinary day. </p>
+  </section>
+  <section class="section">
+    <div class="first-section">
+      <span>
+        Anything is good if it's made of chocolate
+      </span>
+      <h1>Chocolate is happiness that you can eat</h1>
+      <div>
+        <p>
+          Chocolate, with its rich and comforting flavor, can be a symbol of indulgence and warmth, reminding us that sometimes, the smallest pleasures can lift our spirits. It’s a reminder to savor life’s delightful surprises, no matter how small, and to find happiness in unexpected places.
+        </p>
+        <p>
+          Friendships are one of life's most cherished treasures, and what could make a good friend even better? Chocolate! This playful quote highlights the joy of sharing both companionship and delicious treats.
+        </p>
+      </div>
+    </div>
+  </section>
+  <section class="hero-section hero-two">
+    <span>
+      Sweet escape
+    </span>
+    <h1>
+      "There is nothing better than a friend, unless it is a friend with chocolate." – Linda Grayson </h1>
+    <button>
+      upcoming events
+    </button>
+  </section>
+  <section class="section section-three">
+    <div class="first-section">
+      <div>
+
+        <span>"Caramels are only a fad. Chocolate is a permanent thing
+
+        </span>
+        <h1> caramel may be delicious and enjoy periods of popularity, chocolate stands out as a constant, beloved treat across generations and cultures.</h1>
+      </div>
+      <div class="paras">
+
+        <p>
+          Hershey is saying that while other sweets may come and go, chocolate’s rich flavor, versatility, and emotional connection with people make it an enduring favorite—solidifying its place in our hearts and lives permanently.
+        </p>
+      </div>
+    </div>
+  </section>
+  <div class="section-gallery">
+    <div class="container">
+      <div class="card">
+        <div class="img-box">
+          <img
+            src="https://thumbs.dreamstime.com/b/generated-image-323091743.jpg"
+            alt="">
+        </div>
+        <div class="content">
+          <span>
+            Experiencing the chocoWorld
+          </span>
+          <h1>
+            Book Your Next Adventure
+          </h1>
+          <p>
+            I'm a text box. Double click me to edit the text or to change the way I look.
+          </p>
+          <button>
+            Book A Visit
+          </button>
+        </div>
+      </div>
+      <div class="card reverse">
+        <div class="img-box">
+          <img
+            src="https://img.freepik.com/premium-photo/glass-tasty-chocolate-ice-cream-special-summer-menu_737761-798.jpg?w=360"
+            alt="">
+           
+        </div>
+        <div class="content">
+          <span>
+            Experiencing the chocoWorld
+          </span>
+          <h1>
+            Book Your visit
+          </h1>
+          <div class="small-img">
+            <div class="box">
+              <img
+                src="https://cdn.pixabay.com/photo/2017/05/11/19/49/iced-coffee-2305203_640.jpg"
+                alt="">
+              <div>
+                <h2>
+                  Visit place1
+                </h2>
+                <p>
+                  I'm a text box. Double click me to edit the text or to change the way I look.
+                </p>
+              </div>
+            </div>
+            <div class="box">
+              <img
+                src="https://img.freepik.com/premium-photo/glass-tasty-chocolate-ice-cream-special-summer-menu_737761-798.jpg?w=360"
+                alt="">
+              <div>
+                <h2>
+                  Visit place2
+                </h2>
+                <p>
+                  I'm a text box. Double click me to edit the text or to change the way I look.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section class="hero-section hero-three">
+    <h1>A New Adventure Is Waiting For You</h1>
+  </section>
+  <footer>
+    <div class="footer-section">
+      <div class="logo">
+        <img src="/logo.webp" alt="">
+      </div>
+      <div class="social">
+        <a href="https://www.facebook.com/"><img src="https://img.icons8.com/ios/50/000000/facebook--v1.png"
+            alt="">Facebook</a>
+        <a href="https://www.instagram.com/"><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"
+            alt="">Instagram</a>
+        <a href="https://www.twitter.com/"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png"
+            alt="">Twitter</a>
+      </div>
+      <h5>
+        Developed by Manya Sharma
+      </h5>
+    </div>
+  </footer>
+
+</body>
+
+</html>
