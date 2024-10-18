@@ -1,0 +1,22 @@
+let firstName='Manya'
+console.log(firstName)
+
+let lastName='Sharma'
+console.log(lastName)
+
+let space=' '
+console.log(space)
+let fulLName=firstName+space+lastName
+console.log(fulLName)
+
+let fullName=firstName+' '+lastName
+console.log(fullName)
+
+let fullNames='Manya\nSharma';
+console.log(fullNames)
+
+let firstname='manya'
+let lastname='sharma'
+let greet=`hi ${firstname} ${lastname} how are you?`
+console.log(greet)
+
